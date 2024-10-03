@@ -9,6 +9,10 @@ public class AdminController {
         System.out.println("Olá");
     }
 
+    public void funcao0(){
+        System.out.println("Yooooo");
+    }
+
     public void funcao2(){
         //12345678
         int x=10;
