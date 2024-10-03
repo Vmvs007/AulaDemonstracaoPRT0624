@@ -17,7 +17,6 @@ public class AdminController {
         System.out.println("Adeus");
     }
 
-
     public void funcaoXYZ(){
         //12345678
         int x=10;
@@ -26,5 +25,16 @@ public class AdminController {
         System.out.println("......................");
     }
 
+    public void peterGriffin(){
+        System.out.println("heheheehehehe");
+
+        int x = 40;
+    }
+
+    public void cristianoRonaldo(){
+        System.out.println("Eu sou o melhor!");
+        System.out.println("SIIIIIIUUUUUUUUUUUUUU");
+        int numero = 7;
+    }
 
 }
