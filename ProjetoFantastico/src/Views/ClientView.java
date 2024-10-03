@@ -13,4 +13,12 @@ public class ClientView {
         System.out.println(1+1);
     }
 
+    public void multiply() {
+        System.out.println(3*5);
+    }
+
+    public void divide() {
+        System.out.println(3/5);
+    }
+
 }
