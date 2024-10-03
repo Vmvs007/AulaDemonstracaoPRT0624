@@ -7,4 +7,9 @@ public class AdminView {
         // 123456789
         int u = 10;
     }
+
+    public void mostrarAlgo4() {
+        // asfdghjkl
+        int esftgreryjuk = 0;
+    }
 }

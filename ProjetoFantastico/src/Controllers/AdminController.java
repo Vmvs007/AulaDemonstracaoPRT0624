@@ -18,4 +18,13 @@ public class AdminController {
     }
 
 
+    public void funcaoXYZ(){
+        //12345678
+        int x=10;
+        String telemovel;
+
+        System.out.println("......................");
+    }
+
+
 }
