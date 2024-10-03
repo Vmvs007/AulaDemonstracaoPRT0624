@@ -7,4 +7,10 @@ public class AdminController {
 
         int x = 40;
     }
+
+    public void cristianoRonaldo(){
+        System.out.println("Eu sou o melhor!");
+        System.out.println("SIIIIIIUUUUUUUUUUUUUU");
+        int numero = 7;
+    }
 }

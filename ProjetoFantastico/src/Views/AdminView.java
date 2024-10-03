@@ -6,4 +6,8 @@ public class AdminView {
         System.out.println("Eheheheheehehehe");
         int x = 42;
     }
+
+    public void chorar(){
+        System.out.println("I cri everitim");
+    }
 }
